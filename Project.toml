@@ -1,2 +1,13 @@
 [compat]
 julia = "1.8"
+
+[deps]
+Distributions
+Random
+Plots
+QuadGK
+SparseArrays
+LinearAlgebra
+NLsolve
+Roots
+LaTeXStrings
